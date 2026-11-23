@@ -293,12 +293,12 @@ function App() {
                 Explore my work <ArrowUpRight size={17} />
               </a>
               <a
-                href="/Abhishek_Sarvade_Resume.pdf"
-                download="Abhishek_Sarvade_Resume.pdf"
-                className="btn btn-primary"
+                href="/Abhishek_Sarvade_resume.pdf"
+                download
+                className="resume-btn"
               >
                 <Download size={18} />
-                Download Resume
+                My Resume
               </a>
             </div>
             <div className="hero-socials">
