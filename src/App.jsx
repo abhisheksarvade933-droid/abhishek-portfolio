@@ -34,7 +34,6 @@ const profile = {
   leetcode: "https://leetcode.com/u/abhishek-sarvade",
 };
 
-
 const skillGroups = [
   {
     title: "Programming Languages",
@@ -99,7 +98,6 @@ const skillGroups = [
     skills: ["Debugging", "Testing", "Problem-Solving"],
   },
 ];
-
 
 const projects = [
   {
@@ -295,12 +293,12 @@ function App() {
                 Explore my work <ArrowUpRight size={17} />
               </a>
               <a
-                className="button button-quiet"
-                href="/resume.pdf"
-                target="_blank"
-                rel="noreferrer"
+                href="/Abhishek_Sarvade_Resume.pdf"
+                download="Abhishek_Sarvade_Resume.pdf"
+                className="btn btn-primary"
               >
-                <Download size={16} /> View resume
+                <Download size={18} />
+                Download Resume
               </a>
             </div>
             <div className="hero-socials">
