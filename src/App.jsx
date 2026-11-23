@@ -293,7 +293,7 @@ function App() {
                 Explore my work <ArrowUpRight size={17} />
               </a>
               <a
-                href="/Abhishek_Sarvade_resume.pdf"
+                href="/resume.pdf"
                 download
                 className="resume-btn"
               >
