@@ -294,7 +294,7 @@ function App() {
               </a>
               <a
                 href="/resume.pdf"
-                download
+                download="Abhishek_Sarvade_Resume.pdf"
                 className="resume-btn"
               >
                 <Download size={18} />
